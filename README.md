@@ -24,7 +24,7 @@ Created the below columns and calculated the values based on the below formulas:
 #### Descriptive Analysis
 1.  Average current price, old price, discount percentage and rating
 | Metric                       | Value                |
-| ---------------------------- | ---------------------|
+|----------------------------- |----------------------|
 | Average current price        |   `KES 1,208.26`     |
 | Average old price            |   `KES 1,837.75`     |
 | Average discount percentage  |   `36.3169%`         |
@@ -46,8 +46,9 @@ Created the below columns and calculated the values based on the below formulas:
 ### Product Performance Analysis
 
 1. Top 10 products with the highest discounts
+
 | Product                                                                      | Discount percentage |
-| -----------------------------------------------------------------------------| --------------------|
+|------------------------------------------------------------------------------|---------------------|
 | 6 In 1 Bottle Can Opener Multifunctional Easy Opener                         |     64%             |
 | Creative Owl Shape Keychain Black                                            |     61%             |
 | 5-PCS Stainless Steel Cooking Pot Set With Steamed Slices                    |     55%             |
@@ -60,8 +61,9 @@ Created the below columns and calculated the values based on the below formulas:
 | Exfoliate And Exfoliate Face Towel - Black                                   |     52%             |
 
 2. Top 10 products with the most reviews
-| Product                                                                      | No. of reviews      |
-| -----------------------------------------------------------------------------| --------------------|
+
+| Product                                                                      |  No. of reviews     |
+|------------------------------------------------------------------------------|---------------------|
 | 120W Cordless Vacuum Cleaners Handheld Electric Vacuum Cleaner               |     69              |
 | 137 Pieces Cake Decorating Tool Set Baking Supplies                          |     55              |
 | Electronic Digital Display Vernier Caliper                                   |     49              |
@@ -74,8 +76,8 @@ Created the below columns and calculated the values based on the below formulas:
 | 52 Pieces Cake Decorating Tool Set Gift Kit Baking Supplies                  |     20              |
 
 3. Top 5 highest-rated and bottom 5 lowest-rated products
-| Product                                                                          | Rating             |
-| ---------------------------------------------------------------------------------| -------------------|
+| Product                                                                          |   Rating           |
+|----------------------------------------------------------------------------------|--------------------|
 | Classic Black Cat Cotton Hemp Pillow Case For Home Car                           |     5              |
 | LASA Aluminum Folding Truck Hand Cart - 68kg Max                                 |     5              |
 | Konka Healty Electric Kettle, 24-hour Heat Preservation,1.5L,800W, White         |     5              |
@@ -83,7 +85,7 @@ Created the below columns and calculated the values based on the below formulas:
 | Peacock  Throw Pillow Cushion Case For Home Car                                  |     5              |
 
 | Product                                                                             |   Rating             |
-| ------------------------------------------------------------------------------------| ---------------------|
+|-------------------------------------------------------------------------------------|----------------------|
 | 7-piece Set Of Storage Bags, Travel Storage Bags, Shoe Bags                         |     2.2              |
 | Artificial Potted Flowers Room Decorative Flowers (2 Pieces)                        |     2.2              |
 | 5-PCS Stainless Steel Cooking Pot Set With Steamed Slices                           |     2.1              |
