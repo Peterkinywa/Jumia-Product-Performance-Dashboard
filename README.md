@@ -76,6 +76,7 @@ Created the below columns and calculated the values based on the below formulas:
 | 52 Pieces Cake Decorating Tool Set Gift Kit Baking Supplies                  |     20              |
 
 3. Top 5 highest-rated and bottom 5 lowest-rated products
+
 | Product                                                                          |   Rating           |
 |----------------------------------------------------------------------------------|--------------------|
 | Classic Black Cat Cotton Hemp Pillow Case For Home Car                           |     5              |
@@ -93,8 +94,9 @@ Created the below columns and calculated the values based on the below formulas:
 | Wall-mounted Sticker Punch-free Plug Fixer                                          |     2.0              |
 
 4. A comparison between high-discount and low-discount products based on average rating and number of reviews
+
 | Discount category      | Average rating     | No. of reviews |
-| -----------------------|--------------------|----------------|
+|------------------------|--------------------|----------------|
 | High Discount          |     3.613          |  59            |
 | Low Discount           |     3.725          |  18            |
 
