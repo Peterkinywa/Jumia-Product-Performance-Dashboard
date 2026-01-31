@@ -31,8 +31,8 @@ Created the below columns and calculated the values based on the below formulas:
 | Average discount percentage  |   `36.3169%`         |
 | Average rating               |   `3.889473684`      |
 
-2. Most expensive product - 32PCS Portable Cordless Drill Set With Cyclic Battery Drive -26 Variable Speed
-   Least expensive product - 3PCS Single Head Knitting Crochet Sweater Needle Set
+2. Most expensive product - `32PCS Portable Cordless Drill Set With Cyclic Battery Drive -26 Variable Speed`
+   Least expensive product - `3PCS Single Head Knitting Crochet Sweater Needle Set`
    
 3. Average rating and discount by discount category
 
