@@ -106,3 +106,13 @@ Intepretation: High-discount products generate greater customer engagement throu
 ## Dashboard Design  
 
 <img width="1915" height="895" alt="image" src="https://github.com/user-attachments/assets/fc305565-0ac0-47f8-a12d-292b80b639b4" />
+
+## Author
+Peter Kinywa Mutua, Data Analyst
+
+## License
+
+This repository and its contents are intended for **internal analysis, learning and reference purposes only**, unless otherwise explicitly stated.
+
+![License](https://img.shields.io/badge/License-Internal-orange)
+
