@@ -105,7 +105,7 @@ Intepretation: High-discount products generate greater customer engagement throu
 
 ## Dashboard Design  
 
-<img width="1915" height="895" alt="image" src="https://github.com/user-attachments/assets/fc305565-0ac0-47f8-a12d-292b80b639b4" />
+<img width="1916" height="985" alt="image" src="https://github.com/user-attachments/assets/d2498515-e056-43d0-8b67-49c93e312cea" />
 
 ## Author
 Peter Kinywa Mutua, Data Analyst
