@@ -23,6 +23,7 @@ Created the below columns and calculated the values based on the below formulas:
 ## Data Analysis
 #### Descriptive Analysis
 1.  Average current price, old price, discount percentage and rating
+
 | Metric                       | Value                |
 |----------------------------- |----------------------|
 | Average current price        |   `KES 1,208.26`     |
