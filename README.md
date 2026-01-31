@@ -104,3 +104,5 @@ Created the below columns and calculated the values based on the below formulas:
 Intepretation: High-discount products generate greater customer engagement through increased reviews while low-discount products achieve slightly higher customer satisfaction as reflected in better average ratings.
 
 ## Dashboard Design  
+
+<img width="1915" height="895" alt="image" src="https://github.com/user-attachments/assets/fc305565-0ac0-47f8-a12d-292b80b639b4" />
